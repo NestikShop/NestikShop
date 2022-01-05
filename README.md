@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @NestikShop
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-NestikShop/NestikShop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Наши преймущества !
+- 👀 Готовы помочь с любым вопросм.
+- 🌱 Лично наш Девиз "Работай, только работай !"
+- 💞️ Мы любим работать и у нас дружный коллектив.
+- 📫 Мы самые популярные в странах СНГ.
+- 💎 Защита ваших персональных данных.
